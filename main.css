@@ -17,6 +17,11 @@ ul
     color: royalblue;
 }
 
+#navigation
+{
+    background-color: cornflowerblue;
+}
+
 .segmentTitle
 {
     font-style: oblique;
