@@ -1,0 +1,30 @@
+body
+{
+    background-color: midnightblue;
+    font-family: monospace;
+    color: aquamarine;
+}
+
+ul
+{
+    list-style-type: square;
+}
+
+#pageTitle
+{
+    font-style: oblique;
+    font-size: xx-large;
+    color: royalblue;
+}
+
+.segmentTitle
+{
+    font-style: oblique;
+    font-size: x-large;
+    color: mediumspringgreen;
+}
+
+.segment
+{
+    font-size: large;
+}
