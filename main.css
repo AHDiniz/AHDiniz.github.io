@@ -22,6 +22,7 @@ ul
 {
     background-color: cornflowerblue;
     border: mediumspringgreen solid 1px;
+    text-align: center;
 }
 
 .segmentTitle
@@ -29,6 +30,7 @@ ul
     font-style: oblique;
     font-size: x-large;
     color: mediumspringgreen;
+    text-align: center;
 }
 
 .segment
