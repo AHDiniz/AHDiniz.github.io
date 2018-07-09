@@ -15,28 +15,46 @@ nav
     text-align: center;
 }
 
-a
+nav a
 {
     text-decoration: none;
     padding: 5px;
     color: aqua;
 }
-a:hover
+nav a:hover
 {
-    border-color: aqua;
+    border-color: aquamarine;
     border-top: 1px;
     border-right: 1px;
     border-bottom: 1px;
     border-left: 1px;
-    color: aqua;
+    color: aquamarine;
 }
-a:active
+nav a:active
 {
     border-color: mediumspringgreen;
     border-top: 1px;
     border-right: 1px;
     border-bottom: 1px;
     border-left: 1px;
+    color: mediumspringgreen;
+}
+nav a:visited
+{
+    color: cornflowerblue;
+}
+
+a
+{
+    text-decoration: none;
+    color: aqua;
+}
+a:hover
+{
+    color: aquamarine;
+}
+a:active
+{
     color: mediumspringgreen;
 }
 a:visited
