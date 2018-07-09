@@ -24,20 +24,10 @@ nav a
 }
 nav a:hover
 {
-    border-color: aquamarine;
-    border-top: 1px;
-    border-right: 1px;
-    border-bottom: 1px;
-    border-left: 1px;
     color: aquamarine;
 }
 nav a:active
 {
-    border-color: mediumspringgreen;
-    border-top: 1px;
-    border-right: 1px;
-    border-bottom: 1px;
-    border-left: 1px;
     color: mediumspringgreen;
 }
 nav a:visited
