@@ -20,6 +20,20 @@ a
     text-decoration: none;
     padding: 5px;
 }
+a:hover
+{
+    border: aqua 1px;
+    color: aqua;
+}
+a:active
+{
+    border: mediumspringgreen 2px;
+    color: mediumspringgreen;
+}
+a:visited
+{
+    color: cornflowerblue;
+}
 
 hr
 {
