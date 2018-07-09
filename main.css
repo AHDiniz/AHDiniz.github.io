@@ -19,7 +19,8 @@ nav a
 {
     background-color: cadetblue;
     text-decoration: none;
-    padding: 10px;
+    padding: 5px;
+    margin: 5px;
     color: aqua;
 }
 nav a:hover
