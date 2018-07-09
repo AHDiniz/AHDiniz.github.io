@@ -17,15 +17,13 @@ nav
 
 nav a
 {
-    background-color: cadetblue;
-    text-decoration: none;
+    text-decoration: underline;
     padding: 5px;
     margin: 5px;
     color: aqua;
 }
 nav a:hover
 {
-    background-color: darkseagreen;
     border-color: aquamarine;
     border-top: 1px;
     border-right: 1px;
@@ -35,7 +33,6 @@ nav a:hover
 }
 nav a:active
 {
-    background-color: darkseagreen;
     border-color: mediumspringgreen;
     border-top: 1px;
     border-right: 1px;
