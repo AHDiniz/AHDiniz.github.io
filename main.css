@@ -27,14 +27,14 @@ nav a:hover
     color: aquamarine;
     font-size: large;
 }
-nav a:active
-{
-    color: mediumspringgreen;
-}
 nav a:visited
 {
     background-color: darkseagreen;
     color: cornflowerblue;
+}
+nav a:active
+{
+    color: mediumspringgreen;
 }
 
 a
@@ -47,13 +47,13 @@ a:hover
     color: aquamarine;
     font-size: large;
 }
-a:active
-{
-    color: mediumspringgreen;
-}
 a:visited
 {
     color: cornflowerblue;
+}
+a:active
+{
+    color: mediumspringgreen;
 }
 
 hr
