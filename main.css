@@ -19,15 +19,24 @@ a
 {
     text-decoration: none;
     padding: 5px;
+    color: aqua;
 }
 a:hover
 {
-    border: aqua 1px;
+    border-color: aqua;
+    border-top: 1px;
+    border-right: 1px;
+    border-bottom: 1px;
+    border-left: 1px;
     color: aqua;
 }
 a:active
 {
-    border: mediumspringgreen 2px;
+    border-color: mediumspringgreen;
+    border-top: 1px;
+    border-right: 1px;
+    border-bottom: 1px;
+    border-left: 1px;
     color: mediumspringgreen;
 }
 a:visited
