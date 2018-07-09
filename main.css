@@ -50,7 +50,7 @@ nav a:visited
 
 a
 {
-    text-decoration: none;
+    text-decoration: underline;
     color: aqua;
 }
 a:hover
