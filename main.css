@@ -13,9 +13,9 @@ ul
 #navigation
 {
     background-color: midnightblue;
-    position: fixed;
-    top: 0px;
-    text-align: center;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, auto-fit);
+    grid-template-rows: repeat(auto-fit, auto-fit);
 }
 #navigation nav a
 {
@@ -74,7 +74,6 @@ hr
     font-size: xx-large;
     color: royalblue;
     text-align: center;
-    padding: 15px;
 }
 
 .segmentTitle
