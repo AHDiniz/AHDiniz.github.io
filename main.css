@@ -17,6 +17,7 @@ ul
     position: fixed;
     top: 0px;
     left: 0px;
+    right: 0px;
 }
 #navigation nav a
 {
@@ -100,7 +101,7 @@ hr
     font-size: xx-large;
     color: royalblue;
     text-align: center;
-    padding-top: 30px;
+    padding-top: 35px;
 }
 
 }
