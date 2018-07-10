@@ -34,7 +34,7 @@ nav a:visited
 }
 nav a:active
 {
-    color: mediumspringgreen;
+    color: blue;
 }
 
 a
@@ -53,7 +53,7 @@ a:visited
 }
 a:active
 {
-    color: mediumspringgreen;
+    color: blue;
 }
 
 hr
