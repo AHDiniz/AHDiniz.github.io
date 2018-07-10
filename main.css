@@ -14,6 +14,9 @@ ul
 {
     background-color: midnightblue;
     text-align: center;
+    position: fixed;
+    top: 0px;
+    bottom: 0px;
 }
 #navigation nav a
 {
@@ -72,6 +75,7 @@ hr
     font-size: xx-large;
     color: royalblue;
     text-align: center;
+    padding: 10px;
 }
 
 .segmentTitle
@@ -85,4 +89,18 @@ hr
 .segment
 {
     font-size: large;
+}
+
+@media only screen and (max-width: 768px)
+{
+
+#pageTitle
+{
+    font-style: oblique;
+    font-size: xx-large;
+    color: royalblue;
+    text-align: center;
+    padding: 15px;
+}
+
 }
