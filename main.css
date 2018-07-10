@@ -14,7 +14,6 @@ ul
 {
     background-color: midnightblue;
     text-align: center;
-    float: right;
 }
 #navigation nav a
 {
@@ -73,7 +72,6 @@ hr
     font-size: xx-large;
     color: royalblue;
     text-align: center;
-    float: left;
 }
 
 .segmentTitle
