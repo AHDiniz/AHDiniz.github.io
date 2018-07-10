@@ -75,7 +75,7 @@ hr
     font-size: xx-large;
     color: royalblue;
     text-align: center;
-    padding: 10px;
+    padding-top: 20px;
 }
 
 .segmentTitle
@@ -100,7 +100,7 @@ hr
     font-size: xx-large;
     color: royalblue;
     text-align: center;
-    padding: 15px;
+    padding-top: 30px;
 }
 
 }
