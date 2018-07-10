@@ -12,7 +12,8 @@ ul
 
 #navigation
 {
-    position: sticky;
+    position: fixed;
+    top: 0px;
     text-align: center;
 }
 #navigation nav a
