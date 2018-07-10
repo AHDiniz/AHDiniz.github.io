@@ -16,6 +16,9 @@ ul
     display: grid;
     grid-template-columns: repeat(auto-fit, auto-fit);
     grid-template-rows: repeat(auto-fit, auto-fit);
+    position: fixed;
+    top: 0px;
+    left: 0px;
 }
 #navigation nav a
 {
