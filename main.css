@@ -74,6 +74,9 @@ hr
     font-size: xx-large;
     color: royalblue;
     text-align: center;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, auto-fit);
+    grid-template-rows: repeat(auto-fit, auto-fit);
 }
 
 .segmentTitle
