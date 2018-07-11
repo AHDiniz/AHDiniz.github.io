@@ -10,29 +10,29 @@ ul
     list-style-type: square;
 }
 
-#navigation
+.navigation
 {
     background-color: midnightblue;
     text-align: center;
 }
-#navigation nav a
+.navigation nav a
 {
     text-decoration: underline;
     padding: 5px;
     margin: 5px;
     color: aqua;
 }
-#navigation nav a:hover
+.navigation nav a:hover
 {
     color: aquamarine;
     font-size: large;
 }
-#navigation nav a:visited
+.navigation nav a:visited
 {
     background-color: darkseagreen;
     color: cornflowerblue;
 }
-#navigation nav a:active
+.navigation nav a:active
 {
     color: blue;
 }
