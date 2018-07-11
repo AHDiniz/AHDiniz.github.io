@@ -12,7 +12,7 @@ ul
 
 .navigation
 {
-    background-color: seagreen;
+    background-color: teal;
     text-align: center;
 }
 .navigation nav a
@@ -27,7 +27,7 @@ ul
     color: aquamarine;
     font-size: large;
     background-color: midnightblue;
-    padding: 5px;
+    padding: 5px 5px 10px 5px;
 }
 .navigation nav a:visited
 {
