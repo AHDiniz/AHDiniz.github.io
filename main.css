@@ -66,7 +66,7 @@ hr
     background-image: -o-linear-gradient(left, midnightblue, cornflowerblue, midnightblue); 
 }
 
-#pageTitle
+.pageTitle
 {
     font-style: oblique;
     font-size: xx-large;
