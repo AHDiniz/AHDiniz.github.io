@@ -18,6 +18,7 @@ a:hover
 {
     color: aquamarine;
     font-size: large;
+    border: none;
 }
 a:visited
 {
