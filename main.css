@@ -9,35 +9,6 @@ ul
     list-style-type: square;
 }
 
-.navigation
-{
-    background-color: teal;
-    text-align: center;
-}
-.navigation nav a
-{
-    text-decoration: underline;
-    padding: 5px;
-    margin: 5px;
-    color: aqua;
-}
-.navigation nav a:hover
-{
-    color: aquamarine;
-    font-size: large;
-    background-color: midnightblue;
-    padding: 5px 5px 10px 5px;
-}
-.navigation nav a:visited
-{
-    background-color: midnightblue;
-    color: aqua;
-}
-.navigation nav a:active
-{
-    color: blue;
-}
-
 a
 {
     text-decoration: underline;
@@ -66,6 +37,25 @@ hr
     background-image: -ms-linear-gradient(left, teal, midnightblue, teal);
     background-image: -o-linear-gradient(left, teal, midnightblue, teal); 
 }
+
+.nav
+{
+    padding-bottom: 0px;
+    background-color: teal;
+}
+
+.nav-link
+{
+    background-color: teal;
+    padding-bottom: 0px;
+}
+
+.active
+{
+    background-color: midnightblue;
+}
+
+
 
 .pageTitle
 {
