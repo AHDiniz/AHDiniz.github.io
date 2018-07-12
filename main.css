@@ -61,10 +61,10 @@ hr
 {
     border: 0; 
     height: 1px; 
-    background-image: -webkit-linear-gradient(left, midnightblue, cornflowerblue, midnightblue);
-    background-image: -moz-linear-gradient(left, midnightblue, cornflowerblue, midnightblue);
-    background-image: -ms-linear-gradient(left, midnightblue, cornflowerblue, midnightblue);
-    background-image: -o-linear-gradient(left, midnightblue, cornflowerblue, midnightblue); 
+    background-image: -webkit-linear-gradient(left, teal, midnightblue, teal);
+    background-image: -moz-linear-gradient(left, teal, midnightblue, teal);
+    background-image: -ms-linear-gradient(left, teal, midnightblue, teal);
+    background-image: -o-linear-gradient(left, teal, midnightblue, teal); 
 }
 
 .pageTitle
