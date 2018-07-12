@@ -39,6 +39,11 @@ hr
     background-image: -o-linear-gradient(left, teal, midnightblue, teal); 
 }
 
+h2
+{
+    color: aqua;
+}
+
 .nav
 {
     padding-bottom: 0px;
