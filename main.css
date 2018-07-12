@@ -47,12 +47,16 @@ hr
 .nav .nav-link
 {
     background-color: teal;
+    border-color: teal; 
     padding-bottom: 0px;
+    color: aqua;
 }
 
 .nav .nav-link.active
 {
     background-color: midnightblue;
+    color: aqua;
+    border-color: midnightblue;
 }
 
 
