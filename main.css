@@ -42,6 +42,7 @@ hr
 {
     padding-bottom: 0px;
     background-color: teal;
+    border: none;
 }
 
 .nav .nav-link
