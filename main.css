@@ -50,7 +50,7 @@ hr
     padding-bottom: 0px;
 }
 
-.nav-link.active
+.nav-link > .active
 {
     background-color: midnightblue;
 }
