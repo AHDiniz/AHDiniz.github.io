@@ -1,7 +1,7 @@
 body
 {
-    background-color: midnightblue;
-    color: aquamarine;
+    background-color: teal;
+    color: midnightblue;
 }
 
 ul
@@ -95,4 +95,9 @@ hr
     font-size: large;
     background-color: midnightblue;
     padding: 5px;
+}
+
+.jumbotron jumbotron-fluid
+{
+    background-color: midnightblue;
 }
