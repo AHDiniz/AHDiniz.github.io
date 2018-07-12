@@ -95,7 +95,7 @@ hr
     padding: 5px;
 }
 
-.jumbotron jumbotron-fluid
+.jumbotron .jumbotron-fluid
 {
     background-color: midnightblue;
 }
