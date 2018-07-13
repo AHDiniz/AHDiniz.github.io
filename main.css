@@ -53,7 +53,7 @@ nav ul li a
     color: aqua;
     text-decoration: none;
 }
-nav ul li .active
+nav ul li a.active
 {
     background-color: midnightblue;
 }
