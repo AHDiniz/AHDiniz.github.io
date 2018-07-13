@@ -47,6 +47,7 @@ h4
 nav
 {
     background-color: teal;
+    padding: 0px;
 }
 nav ul li a
 {
@@ -57,6 +58,7 @@ nav ul li a.active
 {
     background-color: midnightblue;
     color: aqua;
+    padding-bottom: 10px;
 }
 
 .display-1
