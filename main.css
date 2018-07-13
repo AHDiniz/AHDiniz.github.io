@@ -46,12 +46,14 @@ h4
 
 .nav.nav-tabs
 {
+    border: none;
     background-color: teal;
     color: aqua;
     padding-bottom: 0px;
 }
 .nav.nav-tabs .nav-item .nav-link.active
 {
+    border: none;
     background-color: midnightblue;
     color: aqua;
     padding-bottom: 5px;
