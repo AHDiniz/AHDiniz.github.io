@@ -48,9 +48,11 @@ nav
 {
     background-color: teal;
     padding: 0px;
+    border: none;
 }
-nav ul li a
+nav ul li
 {
+    background-color: midnightblue;
     color: aqua;
     text-decoration: none;
 }
