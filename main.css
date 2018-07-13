@@ -44,19 +44,6 @@ h4
     color: aqua;
 }
 
-.navbar
-{
-    padding-bottom: 0px;
-    background-color: teal;
-    border: none;
-}
-
-.navbar .nav li a
-{
-    color: aqua;
-    text-decoration: underline;
-}
-
 .display-1
 {
     color: royalblue;
