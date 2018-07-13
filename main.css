@@ -59,7 +59,7 @@ h4
     padding-bottom: 20px;
     font-size: large;
 }
-.nav.nav-tabs .nav-item:hover
+.nav.nav-tabs .nav-item .nav-link.active:hover
 {
     border: none;
     background-color: midnightblue;
