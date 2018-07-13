@@ -48,6 +48,15 @@ nav
 {
     background-color: teal;
 }
+nav ul li a
+{
+    color: aqua;
+    text-decoration: none;
+}
+nav ul li .active
+{
+    background-color: midnightblue;
+}
 
 .display-1
 {
