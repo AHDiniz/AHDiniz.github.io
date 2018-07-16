@@ -68,6 +68,11 @@ h4
     font-size: large;
 }
 
+.navbar-toggle-icon
+{
+    background-color: teal;
+}
+
 .display-1
 {
     color: royalblue;
