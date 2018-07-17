@@ -46,13 +46,13 @@ h4
 
 .navbar
 {
-    background-color: midnightblue;
+    background-color: teal;
     color: aqua;
 }
 
 .navbar-toggler
 {
-    background-color: teal;
+    background-color: midnightblue;
     border-color: aqua;
 }
 
