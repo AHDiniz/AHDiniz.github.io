@@ -1,0 +1,22 @@
+.text-light
+{
+	color: #f8f9fa;
+}
+
+.project-card
+{
+	color: #f8f9fa;
+	background-color: #343a40;
+	padding: 30px 25px;
+	border-radius: 4px;
+}
+
+a
+{
+	color: #17a2b8;
+}
+
+a:hover
+{
+	color: #17a2b8;
+}
